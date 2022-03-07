@@ -2,7 +2,7 @@
 
 > Thanks a lot for starring this repository. A star from you made my day. This appreciates me to keep doing such things.
 
-<p align="center"><a href="https://www.github.com/AnonymousBoy1025/StringGenerator"><img src="https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/hnyop/StringGenerator"><img src="https://te.legra.ph/file/b47d5bc8a380de7143132.jpg" width="2000"></a></p>
 
 Telegram Bot to Generate Pyrogram and Telethon String Session.
 
