@@ -15,7 +15,7 @@ Iғ ʏᴏᴜ ᴅɪᴅɴ'ᴛ ᴛʀᴜsᴛ ᴛʜɪs ʙᴏᴛ,
 I ᴋɴᴏᴡ ʏᴏᴜ ᴀʀᴇ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ,
 Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ Pʏʀᴏɢʀᴀᴍ ᴀɴᴅ Tᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ. Usᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ !
 
-ʙʏ @DevilsHeavenMF
+ʙʏ @ROYAL_DOLLY_FIGHTER
     """
 
     # Home Button
@@ -35,7 +35,7 @@ Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ Pʏʀᴏɢʀᴀᴍ 
             InlineKeyboardButton("🥺 ʜᴇʟᴘ 🥺", callback_data="help"),
             InlineKeyboardButton("🤔 ᴀʙᴏᴜᴛ 🤔", callback_data="about")
         ],
-        [InlineKeyboardButton("🖤 ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛs​ 🖤", url="https://t.me/DevilsHeavenMF")],
+        [InlineKeyboardButton("🖤 ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛs​ 🖤", url="https://t.me/ROYAL_DOLLY_FIGHTER")],
   ]
 
     # Help Message
@@ -54,11 +54,11 @@ Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ Pʏʀᴏɢʀᴀᴍ 
     ABOUT = """
 **ᴀʙᴏᴜᴛ ᴍᴇ** 
 
-A ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @DevilsHeavenMF
+A ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @ROYAL_DOLLY_FIGHTER
 
 ꜰʀᴀᴍᴇᴡᴏʀᴋ : [Pyrogram](docs.pyrogram.org)
 
 ʟᴀɴɢᴜᴀɢᴇ : [Python](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/anonymous_was_bot)
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : [DOLLY](t.me/ROYAL_DOLLY_FIGHTER)
     """
