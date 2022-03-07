@@ -12,7 +12,7 @@ Telegram Bot to Generate Pyrogram and Telethon String Session.
 
 ### ❤ Deploy to Heroku ❤
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/StringGenerator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hnyop/StringGenerator)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take almost 2 minutes).
@@ -59,12 +59,12 @@ Telegram Bot to Generate Pyrogram and Telethon String Session.
 
 ## Support
 
-Support Group :- [DevilsHeavenMF](telegram.me/DevilsHeavenMF)
+Support Group :- [DevilsHeavenMF](https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AnonymousBoy1025)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/hnyop)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/AnonymousBoy1025)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/hnyop)
